@@ -682,7 +682,7 @@ body {
   background-image: url("../images/participant-photo.png");
 }
 #participant-42 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "42_Thipwimon";
 }
 #participant-42 .participant-quote::before {
   /* content: "Your inspirational quote here." */
