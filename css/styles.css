@@ -178,10 +178,11 @@ body {
 
 /* Next participant */
 #participant-6 {
-	background-color: white;
+	background-image: url("../images/blue_flame.gif");
+  border: 3px solid #000000;
 }
 #participant-6 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+	background-image: url("../images/rice-shower-eevee-v0-3ehjz2r3bn5f1.jpg");
 }
 #participant-6 .participant-name::before {
   content: "06_Chanapoom(Poom/ภูมิ)";
@@ -745,16 +746,17 @@ body {
 
 /* Next participant */
 #participant-35 {
-	background-color: white;
+  background-color: white;
 }
 #participant-35 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+  background-image: url("../images/participant-photo.png");
 }
 #participant-35 .participant-name::before {
-  content: "35_Rungarun (Mameaw)";
+  font-size: 13px;
+  content: "35_Rungarun\00A0(Mameaw)";
 }
 #participant-35 .participant-quote::before {
-	/* content: "Your inspirational quote here." */
+  /* content: "Your inspirational quote here." */
 }
 
 /* Next participant */
